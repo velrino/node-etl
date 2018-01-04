@@ -1,0 +1,17 @@
+{
+  "name": "extrator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "node-xlsx": "^0.11.2",
+    "xlsx": "^0.11.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Velrino",
+  "license": "ISC"
+}
